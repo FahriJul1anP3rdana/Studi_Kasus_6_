@@ -1,4 +1,4 @@
-<img width="580" height="313" alt="image" src="https://github.com/user-attachments/assets/f30dd78a-4bb1-4477-8924-30211671ef71" /># Studi_Kasus_6_
+# Studi_Kasus_6_
 
 ## Nama: Fahri Julian Perdana
 ## NIM: 2609116045
